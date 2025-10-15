@@ -1,6 +1,2 @@
-package com.vm.fastfood.users;
-
-public enum UserRole {
-    ADMIN,
-    USER;
+package com.vm.fastfood.users;public class UserRole {
 }
