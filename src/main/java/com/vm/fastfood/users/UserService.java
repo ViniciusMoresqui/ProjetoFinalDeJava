@@ -1,2 +1,7 @@
-package com.vm.fastfood.users;public class UserService {
+package com.vm.fastfood.users;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class UserService {
 }
